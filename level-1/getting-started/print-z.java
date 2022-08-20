@@ -14,7 +14,7 @@ public class Main {
         {
             for(int k=0;k<n-i-1;k++)
             {
-                System.out.print(" ");
+                System.out.print("/t");
             }
             System.out.print("*");
             System.out.println();
